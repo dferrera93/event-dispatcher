@@ -1,0 +1,9 @@
+{
+    "name": "pou/event-dispatcher",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "psr/event-dispatcher": "^1.0"
+    }
+}
+
